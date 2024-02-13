@@ -15,5 +15,6 @@ int main()
     std::cout << 2;
   else
     std::cout << "DRAW";
+
   return 0;
 }
